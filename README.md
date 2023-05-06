@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edwin</h1>
-<h3 align="center">A Software Developer and current Student</h3>
+<h3 align="center">A Coding botcamp grad and computer science student looking for Software development opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eflatto&label=Profile%20views&color=0e75b6&style=flat" alt="eflatto" /> </p>
 
