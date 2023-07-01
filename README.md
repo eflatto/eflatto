@@ -12,4 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eflatto&show_icons=true&locale=en&layout=compact" alt="eflatto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eflatto&" alt="eflatto" /></p>
